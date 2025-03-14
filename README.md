@@ -12,17 +12,11 @@ This project demonstrates how to use Azure AI Custom Vision to build and deploy 
 
 ## Setup
 
-1. Clone the repository:
-```bash
-git clone https://github.com/MicrosoftLearning/mslearn-ai-vision
-cd mslearn-ai-vision
-```
-
-2. Create Azure Resources:
+1. Create Azure Resources:
    - Create Custom Vision resources in Azure Portal (both training and prediction)
    - Note down the endpoints and keys for both resources
 
-3. Install required packages:
+2. Install required packages:
 ```bash
 pip install azure-cognitiveservices-vision-customvision==3.1.1
 ```
