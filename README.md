@@ -68,5 +68,4 @@ Update the `.env` configuration file with your:
 
 - [Custom Vision Documentation](https://docs.microsoft.com/azure/cognitive-services/custom-vision-service/)
 - [Azure AI Services](https://azure.microsoft.com/services/cognitive-services/)
-- [Microsoft Learn Module](https://docs.microsoft.com/learn/modules/detect-objects-images-custom-vision/)
 
