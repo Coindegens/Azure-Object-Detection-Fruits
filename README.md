@@ -24,7 +24,7 @@ pip install azure-cognitiveservices-vision-customvision==3.1.1
 ## Project Structure
 
 ```
-mslearn-ai-vision/
+azure-ai-vision/
 ├── training-images/         # Images for model training
 └── Python/
     ├── train-detector/     # Python training code
